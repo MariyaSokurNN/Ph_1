@@ -23,6 +23,3 @@
 
 Решение:
 
-
-[Проект 1]([https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_(novel)](https://docs.google.com/spreadsheets/d/1CKCD_gwMBm2PXbjDBeZhispPZ0O6B-y7/edit?usp=drive_link&ouid=102591229776063902531&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1CKCD_gwMBm2PXbjDBeZhispPZ0O6B-y7/edit?usp=drive_link&ouid=102591229776063902531&rtpof=true&sd=true)
-<a href="[https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_(novel)](https://docs.google.com/spreadsheets/d/1CKCD_gwMBm2PXbjDBeZhispPZ0O6B-y7/edit?usp=drive_link&ouid=102591229776063902531&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1CKCD_gwMBm2PXbjDBeZhispPZ0O6B-y7/edit?usp=drive_link&ouid=102591229776063902531&rtpof=true&sd=true">Проект 1</a>
