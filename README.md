@@ -3,8 +3,7 @@
 
 <h1>Навыки</h1>
 Первым моментом я хотела бы указать те навыки, которыми я владею:
-<ul>
-  <li>Инструменты анализа данных: <em><strong>SQL</strong></em>, <em><strong>Excel</strong></em></li>
+<p>Инструменты анализа данных:</p> <em><strong>SQL</strong></em>, <em><strong>Excel</strong></em>
 Языки программирования и библиотеки: Python, Pandas
 Системы управления базами данных: MySQL, PostgreSQL
 Средства визуализации данных: PowerBi
